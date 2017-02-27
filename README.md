@@ -1,8 +1,6 @@
 # Fundamentals-of-Fractals
 Fractals tutorial (DirectX 11)
 
-[https://digitalerr0r.files.wordpress.com/2010/12/image11.png]
-
 ![alt text][logo1]
 
 [1 - Introduction to Complex Numbers][1]
