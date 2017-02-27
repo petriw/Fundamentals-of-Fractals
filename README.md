@@ -1,22 +1,30 @@
-
 # Fundamentals-of-Fractals
 Fractals tutorial (DirectX 11)
 
 [https://digitalerr0r.files.wordpress.com/2010/12/image11.png]
 
 ![alt text][logo1]
+
 [1 - Introduction to Complex Numbers][1]
 
+
 ![alt text][logo2]
+
 [2 - What is a Fractal?][2]
 
+
 ![alt text][logo3]
+
 [3 - The Sierpinski Gasket][3]
 
+
 ![alt text][logo4]
+
 [4 - The Sierpinski Carpet][4]
 
+
 ![alt text][logo5]
+
 [5 - The Mandelbrot Set][5]
 
 [1]: https://digitalerr0r.wordpress.com/2010/12/11/fundamentals-of-fractals-1-introduction-to-complex-numbers/
