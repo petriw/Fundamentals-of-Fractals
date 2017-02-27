@@ -1,5 +1,5 @@
-# Fundamentals-of-Fractals
-Fractals tutorial (DirectX 11)
+# Fundamentals of Fractals
+###Fractals tutorial (DirectX 11)
 
 ![alt text][logo1]
 
